@@ -1,0 +1,13 @@
+{
+"companyName": "FairytalesPlanet",
+"productName": "EclipseOpening",
+"dataUrl": "testWebGL.data.unityweb",
+"wasmCodeUrl": "testWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "testWebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
